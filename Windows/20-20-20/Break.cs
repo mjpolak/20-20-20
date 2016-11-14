@@ -61,12 +61,12 @@ namespace _20_20_20
         {
             if( val > 0 )
             {
-                counter.Text = "Pozostało: " + val;
+                counter.Text = "Wait: " + val;
                 
             }
             else
             {
-                counter.Text = "Przycisnij dowolny klawisz";
+                counter.Text = "Press any key";
             }
         }
 
