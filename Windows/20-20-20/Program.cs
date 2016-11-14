@@ -51,11 +51,11 @@ namespace _20_20_20
 
 
                 ContextMenu cm = new ContextMenu();
-                MenuItem mi = new MenuItem() { Text = "Wyjście" };
+                MenuItem mi = new MenuItem() { Text = "Exit" };
                 mi.Click += mi_Click;
                 cm.MenuItems.Add(mi);
 
-                mi = new MenuItem() { Text = "Test" };
+                mi = new MenuItem() { Text = "Popup test" };
                 mi.Click += (object sender, EventArgs e) =>
                 {
                     Window();
@@ -68,9 +68,9 @@ namespace _20_20_20
                 };
 
 
-
+                
                 cm.MenuItems.Add(mi);
-                mi = new MenuItem() { Text = "Ustawienia" };
+                mi = new MenuItem() { Text = "Settings" };
                 mi.Click += mi_Settings;
                 cm.MenuItems.Add(mi);
 
