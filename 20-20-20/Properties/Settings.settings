@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="_20_20_20.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Napis" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Wzrok na 20 sekund od monitora!</Value>
+    </Setting>
+    <Setting Name="KolorTla" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">LawnGreen</Value>
+    </Setting>
+    <Setting Name="KolorNapisu" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Black</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
