@@ -34,7 +34,7 @@ namespace _20_20_20
 
             private State state = State.Work;
             NotifyIcon icon;
-            private bool work = true;
+            //private bool work = true;
             private Form global = new Form();
 
             private System.Timers.Timer timer;
