@@ -1,7 +1,7 @@
 # 20-20-20 Protect your eyes
 ##Simple program that serve to protect your eyes.
 
-##Last release avaialable [HERE]https://github.com/mjpolak/20-20-20/releases
+##Last release avaialable [HERE](https://github.com/mjpolak/20-20-20/releases)
 
 ###Program tries to keep an eye on you, such that you will follow 20-20-20 Rule:
 
